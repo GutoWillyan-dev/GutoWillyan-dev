@@ -36,6 +36,6 @@
 ---
 
 ### 📬 Contato  
-📧 **E-mail:** guthembergwillyan06@email.com  
+📧 **E-mail:** guthembergwillyan06@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/guthemberg-willyan-1496522b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
