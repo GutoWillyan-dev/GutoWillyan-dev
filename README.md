@@ -7,11 +7,13 @@
 ---
 
 ### 👨‍💻 Sobre mim
-- 🔭 Atualmente estou trabalhando em um projeto **[API-geolocalização]**
-- 🌱 Aprendendo **Python, R, Sql, React, Next.js, API Rest e desenvolvimento full stack**
-- 💬 Pergunte-me sobre **Python, R, Sql, JavaScript e Next.js**
-- 📫 Como me encontrar: [Seu LinkedIn]([https://www.linkedin.com/in/guthemberg-willyan/](https://www.linkedin.com/in/guthemberg-willyan-1496522b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-- ⚡ Curiosidade: Amo desafios e resolver problemas complexos 🚀  
+- 🔭 Atualmente, sou estagiário de T.I e estou trabalhando no projeto **[API-geolocalização]**  
+- 🌍 Resido em **Recife, PE**  
+- 🌱 Atualmente aprendendo **Python, R, SQL, React, Next.js, API Rest e desenvolvimento full stack**  
+- 💬 Tenho experiência com **Python, R, SQL, JavaScript e Next.js**  
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/guthemberg-willyan-1496522b3)  
+- ⚡ Curiosidade: Sou um entusiasta por novos desafios, me adapto muito bem as coisas e sempre procuro resolver problemas complexos 🚀  
+ 
 
 ---
 
