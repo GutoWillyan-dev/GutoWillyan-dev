@@ -7,7 +7,6 @@
 ---
 
 ### 👨‍💻 Sobre mim  
-- 🎓 Estagiário de T.I, atualmente desenvolvendo o projeto **[API-geolocalização]**  
 - 📍 Moro em **Recife, PE**  
 - 🚀 Sempre aprendendo! Atualmente estudando **Python, R, SQL, React, Next.js, API Rest e desenvolvimento full stack**  
 - 🛠️ Experiência com **Python, R, SQL, JavaScript e Next.js**  
