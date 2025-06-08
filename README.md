@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Guthemberg Willyan </h1>
 
 <p align="center">
-  💻 Desenvolvedor Full Stack | 🚀 Apaixonado por tecnologia e inovação  
+  💻 Desenvolvedor Back-end| 🚀 Apaixonado por tecnologia e inovação  
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 👨‍💻 Sobre mim  
 - 📍 Moro em **Recife, PE**  
 - 🚀 Sempre aprendendo! Atualmente estudando **Python, R, SQL, React, Next.js, API Rest e desenvolvimento full stack**  
-- 🛠️ Experiência com **Python, R, SQL, JavaScript e Next.js**  
+- 🛠️ Experiência com **Python, R, SQL, PostgreSQL, JavaScript e Next.js**  
 - ⚡ Curiosidade: Adoro desafios e estou sempre buscando aprender e resolver problemas complexos 🚀  
 
 ---
