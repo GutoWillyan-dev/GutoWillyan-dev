@@ -26,7 +26,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+#### 📊 GitHub Stats  
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GutoWillyan-dev&show_icons=true&theme=radical"/>
@@ -40,7 +40,7 @@
 
 ---
 
-### 📬 Contato  
+#### 📬 Contato  
 
 📧 **E-mail:** guthembergwillyan06@gmail.com  
 💼 **LinkedIn:** [Guthemberg Willyan](https://www.linkedin.com/in/guthemberg-willyan-1496522b3)  
