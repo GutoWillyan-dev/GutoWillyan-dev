@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Eu sou o Guthemberg Willyan </h1>
 
 <p align="center">
-  💻 Desenvolvedor Full Stack| 🚀 Apaixonado por tecnologia e inovação  
+  💻 Desenvolvedor Full Stack | 🚀 Apaixonado por tecnologia e inovação  
 </p>
 
 ---
